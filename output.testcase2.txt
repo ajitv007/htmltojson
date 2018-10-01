@@ -1,0 +1,15 @@
+{
+    "tag": "html",
+    "children": [
+        {
+            "tag": "head",
+            "children": [
+                {
+                    "tag": "script",
+                    "type": "text\/javascript",
+                    "html": "\n            alert('hi');\n        "
+                }
+            ]
+        }
+    ]
+}
